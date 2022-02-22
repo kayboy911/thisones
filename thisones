@@ -1,0 +1,6 @@
+# sayin something we talked abot is real
+echo " say your name"
+read $name
+echo " how old are you"
+read $age
+
